@@ -6,3 +6,5 @@ També estan els datasets que s'han utilitzat al projecte a més dels gràfics d
 Observable: https://observablehq.com/d/1de930102d260589
 
 Gameplay v0.0.9: https://www.youtube.com/watch?v=2G6DmteAgr8
+
+Mèmoria Treball Final: https://dugi-doc.udg.edu/handle/10256/26805
